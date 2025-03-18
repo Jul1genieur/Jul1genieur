@@ -10,10 +10,10 @@ I'm a French student currently in my first year at an engineering school special
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
 
 # **📊 GitHub Stats**:
-![](https://nirzak-streak-stats.vercel.app/?user=Jul1genieur&theme=nightowl&hide_border=false)<br/>
-[![](https://visitcount.itsvg.in/api?id=Jul1genieur&icon=9&color=11)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=Jul1genieur&theme=blue_navy&hide_border=false)<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=Jul1genieur&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## **👀 Next to work**
 Between tennis, mountain biking, athletics and weight training, I've always been into sports. I also enjoy playing football, basketball, and many others from time to time.
 I also have been passionate about photography for several years now, capturing everything from landscapes to wildlife, constantly exploring new techniques to improve my skills.
-
