@@ -11,7 +11,6 @@ I'm a French student currently in my first year at an engineering school special
 
 # **📊 GitHub Stats**:
 ![](https://nirzak-streak-stats.vercel.app/?user=Jul1genieur&theme=blue_navy&hide_border=false)<br/>
----
 [![](https://visitcount.itsvg.in/api?id=Jul1genieur&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## **👀 Next to work**
