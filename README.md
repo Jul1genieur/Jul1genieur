@@ -1,6 +1,6 @@
-# **👋 Welcome on my profile**
+# **About me**
 I'm a French student currently in my second year at an school specializing in computer and industrial engineering.
-# **🌱 My skills growing up...**
+# **My skills growing up...**
 **Web :** <br/>
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 <br/> **Programming :** <br/>
@@ -13,6 +13,6 @@ I'm a French student currently in my second year at an school specializing in co
 ![](https://nirzak-streak-stats.vercel.app/?user=Jul1genieur&theme=blue_navy&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=Jul1genieur&icon=0&color=11)](https://visitcount.itsvg.in)
 
-## **👀 Next to work**
+## **Next to work**
 Between tennis, mountain biking, athletics and weight training, I've always been into sports. I also enjoy playing football, basketball, and many others from time to time.
 I also have been passionate about photography for several years now, capturing everything from landscapes to wildlife, constantly exploring new techniques to improve my skills.
